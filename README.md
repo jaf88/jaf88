@@ -5,7 +5,7 @@ I'm a Frontend Developer
 <br/>
 <br/>
 
-## 🚀 Skills 🚀
+## Skills 🚀
 
 Here are a few things I've picked up along my journey.
 
